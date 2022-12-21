@@ -28,7 +28,7 @@ public class Ejemplo04 {
         };
         
         int suma;
-        
+         // en un arreglo las filas dan el tamaño del arreglo =>length = filas 
         for (int fila = 0; fila < arreglo1.length; fila++) { // 0<2 // 1<2
             suma = 0;
             for (int col = 0; col < arreglo1[fila].length; col++) { // arreglo1[0].length:3 

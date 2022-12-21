@@ -29,7 +29,7 @@ public class Ejemplo03 {
             System.out.printf("El tamaño de su columna es: %d\n", 
                     arregloUnidimensional.length);
             
-            
+             // en un arreglo las filas dan el tamaño del arreglo 
             System.out.println("--------------------------------");
             /*
             System.out.printf("Tamaño del arreglo de cada fila (por el número "
